@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [claude/send-to-github-xolbvd]
+    branches: [main, claude/send-to-github-xolbvd]
 
 permissions:
   contents: read
